@@ -1,0 +1,80 @@
+body {
+  background: rgb(244, 248, 249);
+  font-family: Helvetica
+}
+
+.tweet {
+  background: rgb(255, 255, 255);
+  height: 315px;
+  width: 1000px;
+  margin: 30px;
+  border: 2px solid rgb(225, 232, 237);
+  border-radius: 8px;
+}
+
+.header {
+  height: 73px;
+  width: 920px;
+  margin: 35px 40px 35px;
+}
+
+.profile {
+  margin-right: 25px;
+  float: left;
+}
+
+.account {
+  font-size: 1.7em;
+  color: rgb(104, 109, 129);
+  margin-top: -18px;
+}
+
+.follow {
+  float: right;
+  height: 48px;
+  width: 180px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.7em;
+  border: 2px solid rgb(85, 172, 238);
+  color: rgb(85, 172, 238);
+  padding-top: 10px;
+  margin-top: 6px;
+  border-radius: 8px;
+}
+
+.message {
+  height: 77px;
+  width: 920px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 2em;
+}
+
+.date {
+  font-size: 0.9em;
+  margin-top: 12px;
+  color: rgb(101, 116, 127);
+}
+
+.reply {
+  float: left;
+  margin-left: 40px;
+  margin-top: 35px;
+}
+
+.retweet {
+  margin-left: 40px;
+  margin-top: 35px;
+  float: left;
+  color: rgb(105, 120, 130);
+  font-size: 1.7em;
+}
+
+.favorite {
+  margin-left: 40px;
+  margin-top: 35px;
+  float: left;
+  color: rgb(105, 120, 130);
+  font-size: 1.7em;
+}
