@@ -12,7 +12,7 @@ body {
   border-radius: 8px;
 }
 
-.header {
+.tweet-header {
   height: 73px;
   width: 920px;
   margin: 35px 40px 35px;
@@ -43,7 +43,7 @@ body {
   border-radius: 8px;
 }
 
-.message {
+.tweet-message {
   height: 77px;
   width: 920px;
   margin-left: 40px;
